@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\bin\Debug\CondicionLogicaSwitch.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\bin\Debug\CondicionLogicaSwitch.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\bin\Debug\CondicionLogicaSwitch.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\obj\Debug\CondicionLogicaSwitch.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\obj\Debug\CondicionLogicaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\obj\Debug\CondicionLogicaSwitch.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaSwitch\obj\Debug\CondicionLogicaSwitch.pdb

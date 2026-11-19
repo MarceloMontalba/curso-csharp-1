@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb

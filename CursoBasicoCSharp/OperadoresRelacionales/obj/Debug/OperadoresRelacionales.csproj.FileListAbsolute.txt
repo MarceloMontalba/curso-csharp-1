@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.pdb

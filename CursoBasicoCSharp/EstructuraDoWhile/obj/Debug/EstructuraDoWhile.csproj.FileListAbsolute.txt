@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\bin\Debug\EstructuraDoWhile.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\bin\Debug\EstructuraDoWhile.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\bin\Debug\EstructuraDoWhile.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\obj\Debug\EstructuraDoWhile.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\obj\Debug\EstructuraDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\obj\Debug\EstructuraDoWhile.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\EstructuraDoWhile\obj\Debug\EstructuraDoWhile.pdb

@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="CondicionLogicaIf/CondicionLogicaIf.csproj" Id="c43defe9-4377-495e-9597-2d27e6b72a22" />
+  <Project Path="CondicionLogicaSwitch/CondicionLogicaSwitch.csproj" Id="5b6cf977-38e4-4c56-96cc-747387c7a627" />
+  <Project Path="Constantes/Constantes.csproj" Id="269f68ec-d75e-4a52-acdf-3b445d739374" />
+  <Project Path="ConversionTipoDeDatos/ConversionTipoDeDatos.csproj" Id="be5c0d99-0118-4b87-9f89-4274f2c018b8" />
+  <Project Path="DatosPrimitivos/DatosPrimitivos.csproj" Id="8fc1f6e7-248b-4b5b-8ecf-b44dcb6746db" />
+  <Project Path="EstructuraDoWhile/EstructuraDoWhile.csproj" Id="1fff903a-47ab-4432-b1ee-ad0de9a61313" />
+  <Project Path="EstructuraFor/EstructuraFor.csproj" Id="2069a9b9-d5c4-4430-878b-b6034bd8c4b9" />
+  <Project Path="EstructuraWhile/EstructuraWhile.csproj" Id="92c716b8-453e-49e0-b007-381427240ebc" />
+  <Project Path="HolaMundo/HolaMundo.csproj" Id="0ca90699-2f9a-4e23-bc0e-925a06cbf3b0" />
+  <Project Path="OperadoresLogicos/OperadoresLogicos.csproj" Id="da0830b1-bed8-470e-b977-e8033c22422b" />
+  <Project Path="OperadoresRelacionales/OperadoresRelacionales.csproj" Id="501b2a69-9b15-406b-8fa8-40a971706282" />
+</Solution>

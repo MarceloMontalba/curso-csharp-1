@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\bin\Debug\ConversionTipoDeDatos.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\bin\Debug\ConversionTipoDeDatos.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\bin\Debug\ConversionTipoDeDatos.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\obj\Debug\ConversionTipoDeDatos.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\obj\Debug\ConversionTipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\obj\Debug\ConversionTipoDeDatos.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\ConversionTipoDeDatos\obj\Debug\ConversionTipoDeDatos.pdb

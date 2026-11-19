@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\bin\Debug\CondicionLogicaIf.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\bin\Debug\CondicionLogicaIf.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\bin\Debug\CondicionLogicaIf.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\obj\Debug\CondicionLogicaIf.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\obj\Debug\CondicionLogicaIf.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\obj\Debug\CondicionLogicaIf.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\CondicionLogicaIf\obj\Debug\CondicionLogicaIf.pdb

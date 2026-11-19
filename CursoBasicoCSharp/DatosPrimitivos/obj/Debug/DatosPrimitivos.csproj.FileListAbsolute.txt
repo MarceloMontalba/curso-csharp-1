@@ -1,0 +1,7 @@
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\bin\Debug\DatosPrimitivos.exe.config
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\bin\Debug\DatosPrimitivos.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\bin\Debug\DatosPrimitivos.pdb
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\obj\Debug\DatosPrimitivos.csproj.AssemblyReference.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\obj\Debug\DatosPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\obj\Debug\DatosPrimitivos.exe
+C:\Users\QR54601\Documents\GitHub - Marcelo Montalba\curso-csharp-1\CursoBasicoCSharp\DatosPrimitivos\obj\Debug\DatosPrimitivos.pdb
