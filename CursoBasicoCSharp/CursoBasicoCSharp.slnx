@@ -8,6 +8,9 @@
   <Project Path="EstructuraFor/EstructuraFor.csproj" Id="2069a9b9-d5c4-4430-878b-b6034bd8c4b9" />
   <Project Path="EstructuraWhile/EstructuraWhile.csproj" Id="92c716b8-453e-49e0-b007-381427240ebc" />
   <Project Path="HolaMundo/HolaMundo.csproj" Id="0ca90699-2f9a-4e23-bc0e-925a06cbf3b0" />
+  <Project Path="Matrices/Matrices.csproj" Id="98ee51f5-d6a6-486a-9a26-c30ec50ebfea" />
+  <Project Path="Metodos/Metodos.csproj" Id="bc8022d0-ebb4-4199-b43c-2de21d3c090a" />
   <Project Path="OperadoresLogicos/OperadoresLogicos.csproj" Id="da0830b1-bed8-470e-b977-e8033c22422b" />
   <Project Path="OperadoresRelacionales/OperadoresRelacionales.csproj" Id="501b2a69-9b15-406b-8fa8-40a971706282" />
+  <Project Path="Vectores/Vectores.csproj" Id="d4784a06-7bc6-4c86-aab4-12ca0bb54aed" />
 </Solution>

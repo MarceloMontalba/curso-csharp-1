@@ -1,12 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8022D0-EBB4-4199-B43C-2DE21D3C090A}|Metodos\\Metodos.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8022D0-EBB4-4199-B43C-2DE21D3C090A}|Metodos\\Metodos.csproj|solutionrelative:metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EE51F5-D6A6-486A-9A26-C30EC50EBFEA}|Matrices\\Matrices.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EE51F5-D6A6-486A-9A26-C30EC50EBFEA}|Matrices\\Matrices.csproj|solutionrelative:matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Metodos\\Program.cs",
+              "RelativeToolTip": "Metodos\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T13:03:03.752Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Matrices\\Program.cs",
+              "RelativeDocumentMoniker": "Matrices\\Program.cs",
+              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Matrices\\Program.cs",
+              "RelativeToolTip": "Matrices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T12:09:26.964Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

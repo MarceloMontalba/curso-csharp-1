@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2069A9B9-D5C4-4430-878B-B6034BD8C4B9}|EstructuraFor\\EstructuraFor.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\estructurafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2069A9B9-D5C4-4430-878B-B6034BD8C4B9}|EstructuraFor\\EstructuraFor.csproj|solutionrelative:estructurafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8022D0-EBB4-4199-B43C-2DE21D3C090A}|Metodos\\Metodos.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8022D0-EBB4-4199-B43C-2DE21D3C090A}|Metodos\\Metodos.csproj|solutionrelative:metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92C716B8-453E-49E0-B007-381427240EBC}|EstructuraWhile\\EstructuraWhile.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\estructurawhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C716B8-453E-49E0-B007-381427240EBC}|EstructuraWhile\\EstructuraWhile.csproj|solutionrelative:estructurawhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFF903A-47AB-4432-B1EE-AD0DE9A61313}|EstructuraDoWhile\\EstructuraDoWhile.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\estructuradowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFF903A-47AB-4432-B1EE-AD0DE9A61313}|EstructuraDoWhile\\EstructuraDoWhile.csproj|solutionrelative:estructuradowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6CF977-38E4-4C56-96CC-747387C7A627}|CondicionLogicaSwitch\\CondicionLogicaSwitch.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\condicionlogicaswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6CF977-38E4-4C56-96CC-747387C7A627}|CondicionLogicaSwitch\\CondicionLogicaSwitch.csproj|solutionrelative:condicionlogicaswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98EE51F5-D6A6-486A-9A26-C30EC50EBFEA}|Matrices\\Matrices.csproj|c:\\users\\qr54601\\documents\\github - marcelo montalba\\curso-csharp-1\\cursobasicocsharp\\matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EE51F5-D6A6-486A-9A26-C30EC50EBFEA}|Matrices\\Matrices.csproj|solutionrelative:matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\EstructuraFor\\Program.cs",
-              "RelativeDocumentMoniker": "EstructuraFor\\Program.cs",
-              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\EstructuraFor\\Program.cs",
-              "RelativeToolTip": "EstructuraFor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Metodos\\Program.cs*",
+              "RelativeToolTip": "Metodos\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBUAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T20:13:36.935Z",
+              "WhenOpened": "2026-11-20T13:03:03.752Z",
               "EditorCaption": "",
               "OwnerCaption": "%2"
             },
@@ -46,41 +38,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\EstructuraWhile\\Program.cs",
-              "RelativeDocumentMoniker": "EstructuraWhile\\Program.cs",
-              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\EstructuraWhile\\Program.cs",
-              "RelativeToolTip": "EstructuraWhile\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Matrices\\Program.cs",
+              "RelativeDocumentMoniker": "Matrices\\Program.cs",
+              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\Matrices\\Program.cs",
+              "RelativeToolTip": "Matrices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T19:56:06.418Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\EstructuraDoWhile\\Program.cs",
-              "RelativeDocumentMoniker": "EstructuraDoWhile\\Program.cs",
-              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\EstructuraDoWhile\\Program.cs",
-              "RelativeToolTip": "EstructuraDoWhile\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T19:45:12.065Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\CondicionLogicaSwitch\\Program.cs",
-              "RelativeDocumentMoniker": "CondicionLogicaSwitch\\Program.cs",
-              "ToolTip": "C:\\Users\\QR54601\\Documents\\GitHub - Marcelo Montalba\\curso-csharp-1\\CursoBasicoCSharp\\CondicionLogicaSwitch\\Program.cs",
-              "RelativeToolTip": "CondicionLogicaSwitch\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T19:40:19.05Z",
+              "WhenOpened": "2026-11-20T12:09:26.964Z",
               "EditorCaption": "",
               "OwnerCaption": "%2"
             }
