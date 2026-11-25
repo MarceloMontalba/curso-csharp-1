@@ -1,0 +1,16 @@
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\bin\Debug\net10.0\Herencia.exe
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\bin\Debug\net10.0\Herencia.deps.json
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\bin\Debug\net10.0\Herencia.runtimeconfig.json
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\bin\Debug\net10.0\Herencia.runtimeconfig.dev.json
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\bin\Debug\net10.0\Herencia.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\bin\Debug\net10.0\Herencia.pdb
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.AssemblyInfo.cs
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\refint\Herencia.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.pdb
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.genruntimeconfig.cache
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\ref\Herencia.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Herencia\obj\Debug\net10.0\Herencia.csproj.Up2Date

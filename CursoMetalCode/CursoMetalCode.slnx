@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClasesYObjetos/ClasesYObjetos.csproj" />
+  <Project Path="Herencia/Herencia.csproj" />
+  <Project Path="Propiedades/Propiedades.csproj" />
+  <Project Path="Sobrecarga/Sobrecarga.csproj" />
+</Solution>

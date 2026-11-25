@@ -1,0 +1,16 @@
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.AssemblyInfo.cs
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\bin\Debug\net10.0\Propiedades.exe
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\bin\Debug\net10.0\Propiedades.deps.json
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\bin\Debug\net10.0\Propiedades.runtimeconfig.json
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\bin\Debug\net10.0\Propiedades.runtimeconfig.dev.json
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\bin\Debug\net10.0\Propiedades.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\bin\Debug\net10.0\Propiedades.pdb
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\refint\Propiedades.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.pdb
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propiedades.genruntimeconfig.cache
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\ref\Propiedades.dll
+C:\Users\chelo\source\repos\CursoMetalCode\Propiedades\obj\Debug\net10.0\Propieda.26C0C8E7.Up2Date
