@@ -3,4 +3,6 @@
   <Project Path="Herencia/Herencia.csproj" />
   <Project Path="Propiedades/Propiedades.csproj" />
   <Project Path="Sobrecarga/Sobrecarga.csproj" />
+  <Project Path="Sobreescritura/Sobreescritura.csproj" Id="388ff8a9-cfbc-4828-a6ca-97fc3dc6a2a9" />
+  <Project Path="Static/Static.csproj" Id="96b14f01-692f-4f76-b8b1-a884d8064c60" />
 </Solution>

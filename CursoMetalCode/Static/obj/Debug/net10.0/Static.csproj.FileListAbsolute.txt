@@ -1,0 +1,17 @@
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\bin\Debug\net10.0\Static.exe
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\bin\Debug\net10.0\Static.deps.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\bin\Debug\net10.0\Static.runtimeconfig.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\bin\Debug\net10.0\Static.runtimeconfig.dev.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\bin\Debug\net10.0\Static.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\bin\Debug\net10.0\Static.pdb
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.AssemblyInfoInputs.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.AssemblyInfo.cs
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.sourcelink.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\refint\Static.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.pdb
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.genruntimeconfig.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\ref\Static.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Static\obj\Debug\net10.0\Static.csproj.Up2Date

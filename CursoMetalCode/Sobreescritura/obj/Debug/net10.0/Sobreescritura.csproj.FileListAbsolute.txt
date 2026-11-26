@@ -1,0 +1,17 @@
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\bin\Debug\net10.0\Sobreescritura.exe
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\bin\Debug\net10.0\Sobreescritura.deps.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\bin\Debug\net10.0\Sobreescritura.runtimeconfig.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\bin\Debug\net10.0\Sobreescritura.runtimeconfig.dev.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\bin\Debug\net10.0\Sobreescritura.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\bin\Debug\net10.0\Sobreescritura.pdb
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.AssemblyInfoInputs.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.AssemblyInfo.cs
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.sourcelink.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\refint\Sobreescritura.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.pdb
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreescritura.genruntimeconfig.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\ref\Sobreescritura.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\Sobreescritura\obj\Debug\net10.0\Sobreesc.C998C36F.Up2Date

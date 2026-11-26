@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B76D3412-F143-37F3-1338-F5B9532B52B7}|Sobrecarga\\Sobrecarga.csproj|c:\\users\\chelo\\documents\\github\\curso-csharp-1\\cursometalcode\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B76D3412-F143-37F3-1338-F5B9532B52B7}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|c:\\users\\chelo\\documents\\github\\curso-csharp-1\\cursometalcode\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FB453B-D312-FCEB-8112-2E2F65A30331}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96B14F01-692F-4F76-B8B1-A884D8064C60}|Static\\Static.csproj|c:\\users\\chelo\\documents\\github\\curso-csharp-1\\cursometalcode\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B14F01-692F-4F76-B8B1-A884D8064C60}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\Sobrecarga\\Program.cs",
-              "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
-              "ToolTip": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\Sobrecarga\\Program.cs",
-              "RelativeToolTip": "Sobrecarga\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwDgAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T00:11:04.386Z",
+              "WhenOpened": "2026-11-26T01:11:45.916Z",
               "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\Herencia\\Program.cs",
-              "RelativeDocumentMoniker": "Herencia\\Program.cs",
-              "ToolTip": "C:\\Users\\chelo\\Documents\\GitHub\\curso-csharp-1\\CursoMetalCode\\Herencia\\Program.cs",
-              "RelativeToolTip": "Herencia\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T23:54:36.65Z",
               "OwnerCaption": "%2"
             }
           ]
