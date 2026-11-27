@@ -1,0 +1,17 @@
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\bin\Debug\net10.0\SerializacionObjetos.exe
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\bin\Debug\net10.0\SerializacionObjetos.deps.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\bin\Debug\net10.0\SerializacionObjetos.runtimeconfig.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\bin\Debug\net10.0\SerializacionObjetos.runtimeconfig.dev.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\bin\Debug\net10.0\SerializacionObjetos.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\bin\Debug\net10.0\SerializacionObjetos.pdb
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.AssemblyInfoInputs.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.AssemblyInfo.cs
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.csproj.CoreCompileInputs.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.sourcelink.json
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\refint\SerializacionObjetos.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.pdb
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\SerializacionObjetos.genruntimeconfig.cache
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\ref\SerializacionObjetos.dll
+C:\Users\chelo\Documents\GitHub\curso-csharp-1\CursoMetalCode\SerializacionObjetos\obj\Debug\net10.0\Serializ.60CB09A5.Up2Date
